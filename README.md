@@ -4,7 +4,7 @@
 
 Những cuốn sách, truyện mình cho rằng là tuyệt vời nhất mà mình đọc được và muốn chia sẻ cho tất cả mọi người ^^
 
-Mọi file PDF không thuộc bản quyền của mình, mọi file đều là do mình thực hiện sưu tầm mà có được. Nếu có bất cứ tranh chấp ảnh hưởng tới bản quyền hãy để lại ở mục ***Issues*** hoặc ***Discussions*** để chúng ta có thể cùng giải quyết sớm nhất có thể :3 (Kí hiệu 💠 đánh dấu những sách mình chưa tìm được file PDF)
+Mọi file PDF không thuộc bản quyền của mình, mọi file đều là do mình thực hiện sưu tầm mà có được. Nếu có bất cứ tranh chấp ảnh hưởng tới bản quyền hãy để lại ở mục ***Issues*** hoặc ***Discussions*** để chúng ta có thể cùng giải quyết sớm nhất có thể :3 (Kí hiệu 💠 đánh dấu những sách mình chưa cập nhật file PDF)
 
 
 
@@ -60,4 +60,11 @@ Mọi file PDF không thuộc bản quyền của mình, mọi file đều là d
 - [Bạn không thông minh lắm đâu](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/self-help/ban-khong-thong-minh-lam-dau-David.pdf) - David McRaney
 
 ## Novel
-- [Thép đã tôi thế đấy]() - Nikolai A. Ostrovsky 💠
+- [Thép đã tôi thế đấy]() - Nikolai A. Ostrovsky 
+- [Ruồi trâu]() - Ethel Lilian Voynich 💠
+- [Không gia đình]() - Hector Malot 💠
+- [Oliver Twist]() - Charles Dickens (Tiểu thuyết Xã hội)💠
+- [Hai vạn dặm dưới đáy biển]() - Jules Verne (Thám hiểm)💠
+- [Tuổi thơ dữ dội]() - Phùng Quán 💠
+- [Đất rừng Phương Nam]() - Đoàn Giỏi (Truyện dài)💠
+- [Đề thi đẫm máu]() - Lôi Mễ (Trinh thám) 💠
