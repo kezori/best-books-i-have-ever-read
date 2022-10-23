@@ -4,7 +4,7 @@
 
 Những cuốn sách, truyện mình cho rằng là tuyệt vời nhất mà mình đọc được và muốn chia sẻ cho tất cả mọi người ^^
 
-Mọi file PDF không thuộc bản quyền của mình, mọi file đều là do mình thực hiện sưu tầm mà có được. Nếu có bất cứ tranh chấp ảnh hưởng tới bản quyền hãy để lại ở mục ***Issues*** hoặc ***Discussions*** để chúng ta có thể cùng giải quyết sớm nhất có thể :3
+Mọi file PDF không thuộc bản quyền của mình, mọi file đều là do mình thực hiện sưu tầm mà có được. Nếu có bất cứ tranh chấp ảnh hưởng tới bản quyền hãy để lại ở mục ***Issues*** hoặc ***Discussions*** để chúng ta có thể cùng giải quyết sớm nhất có thể :3 (Kí hiệu 💠 đánh dấu những sách mình chưa tìm được file PDF)
 
 
 
@@ -24,6 +24,7 @@ Mọi file PDF không thuộc bản quyền của mình, mọi file đều là d
 - [Những chàng trai xấu tính](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Nhung%20Chang%20Trai%20Xau%20Tinh%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Nhà nàng ở cạnh nhà tôi]() - Lini Thông Minh
 ## School Life - Romance - Comedy
+- [Miền xanh]() - Nguyễn Phước Thảo 💠
 - [Cô gái đến từ hôm qua](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Co%20Gai%20Den%20Tu%20Hom%20Qua%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Chú bé rắc rối](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Chu%20Be%20Rac%20Roi%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Hoa hồng xứ khác](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Hoa%20Hong%20Xu%20Khac%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
@@ -56,4 +57,7 @@ Mọi file PDF không thuộc bản quyền của mình, mọi file đều là d
 - [Thương nhớ Trà Long](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/thuong-nho-tra-long-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
 
 ## Self-help - Motivational
-- [Bạn không thông minh lắm đâu]() - David McRaney
+- [Bạn không thông minh lắm đâu](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/self-help/ban-khong-thong-minh-lam-dau-David.pdf) - David McRaney
+
+## Novel
+- [Thép đã tôi thế đấy]() - Nikolai A. Ostrovsky 💠
