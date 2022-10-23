@@ -49,3 +49,5 @@ Mọi file PDF không thuộc bản quyền của mình, mọi file đều là d
 - [Cây chuối non đem giày xanh](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/cay-chuoi-non-dem-giay-xanh-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
 - [Chúc một ngày tốt lành](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/chuc-mot-ngay-tot-lanh-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
 - [Con chó nhỏ mang giỏ hoa hồng](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
+
+## Self-help - Motivational
