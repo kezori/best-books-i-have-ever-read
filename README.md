@@ -70,6 +70,13 @@ Mọi file PDF không thuộc bản quyền của mình, mọi file đều là d
 
 ## Self-help - Motivational
 - [Bạn không thông minh lắm đâu](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/self-help/ban-khong-thong-minh-lam-dau-David.pdf) - David McRaney
+- [Tại sao phải hành động]() - Teo Aik Cher 💠
+- [Tại sao cần đơn giản]() - Teo Aik Cher 💠
+- [Tại sao cần vượt trội]() - Teo Aik Cher 💠
+- [Tại sao lo lắng? Hãy vui lên!]() - Teo Aik Cher 💠
+- [Hãy là Người lãnh đạo]() - Teo Aik Cher 💠
+- [Bí kíp nhà vô địch]() - Teo Aik Cher 💠
+- [Tại sao lại chần chừ?]() - Teo Aik Cher 💠
 
 ## Novel
 - [Thép đã tôi thế đấy]() - Nikolai A. Ostrovsky 
@@ -80,3 +87,24 @@ Mọi file PDF không thuộc bản quyền của mình, mọi file đều là d
 - [Tuổi thơ dữ dội]() - Phùng Quán 💠
 - [Đất rừng Phương Nam]() - Đoàn Giỏi (Truyện dài)💠
 - [Đề thi đẫm máu]() - Lôi Mễ (Trinh thám) 💠
+- [Miền xanh thẳm]() - Trần Hoài Dương (Truyện dài)💠
+- [Búp sen xanh]() - Sơn Tùng (Tiểu thuyết Lịch sử)💠
+
+## Science - Technology
+- [Lược sử thời gian]() - Stephen Hawking 💠
+- [Code dạo kí sự]() - Phạm Huy Hoàng 💠
+- [Introduction to Algorithms. Third Edition]() - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein 💠
+- [Clean Code]() - Robert C. Martin 💠
+- [Grokking Algorithms An Illustrated Guide for Programmers and Other Curious People]() - Aditya Bhargava 💠
+
+## Light Novel - Manga - Comic - Anime
+- [DxD High School]() - Ichiei Ishibumi (ハイスクールD×D)💠
+- [Hyouka]() - Honobu Yonezawa (氷菓)💠
+- [Kimi no Na wa]() - Makoto Shinkai (君の名は。)💠
+- [Tonikaku Kawaii]() - Shun Saeki (とにかく可愛い)💠
+- [Horimiya]() - Hero (ほりみや)💠
+- [Masamune Kun no Revenge]() - Akeno Hiura (政宗くんのリベンジ)💠
+- [Date A Live]() - Koushi Tachibana (デート・ア・ライブ)💠
+- [Fuufu Ijou, Koibito Miman]() - Kanae Hazuki (恋と嘘)💠
+- [Yahari Ore no Seishun Love SNAFU]() - Wataru Watari (俺ガイル)💠
+
