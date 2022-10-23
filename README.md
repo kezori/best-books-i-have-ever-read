@@ -4,7 +4,9 @@
 
 Những cuốn sách, truyện mình cho rằng là tuyệt vời nhất mà mình đọc được và muốn chia sẻ cho tất cả mọi người ^^
 
-Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới đây, mọi file đều là do mình thực hiện sưu tầm mà có được. Nếu có bất cứ tranh chấp bản quyền hãy để lại ở mục ***Issues*** hoặc ***Discussions*** để chúng ta có thể cùng giải quyết sớm nhất có thể :3 (Kí hiệu 💠 đánh dấu những sách mình chưa cập nhật file PDF)
+Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới đây, mọi file đều là do mình thực hiện sưu tầm mà có được. Nếu có bất cứ tranh chấp bản quyền hãy để lại ở mục ***Issues*** hoặc ***Discussions*** để chúng ta có thể cùng giải quyết sớm nhất có thể :3 
+
+*Kí hiệu 💠 đánh dấu những sách mình chưa cập nhật file PDF*
 
 
 
