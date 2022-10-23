@@ -50,4 +50,10 @@ Mọi file PDF không thuộc bản quyền của mình, mọi file đều là d
 - [Chúc một ngày tốt lành](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/chuc-mot-ngay-tot-lanh-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
 - [Con chó nhỏ mang giỏ hoa hồng](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
 
+## Prose - Poetry
+- [Sương khói quê nhà](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/suong-khoi-que-nha-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
+- [Người Quảng đi ăn mì Quảng](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/nguoi-quang-di-an-mi-quang-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
+- [Thương nhớ Trà Long](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/thuong-nho-tra-long-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
+
 ## Self-help - Motivational
+- [Bạn không thông minh lắm đâu]() - David McRaney
