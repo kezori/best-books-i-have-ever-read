@@ -11,7 +11,11 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/kr4zym3nvn/best-books-i-have-ever-read/main/img/Icon_Emoji_038_Tartaglia_Pleased.webp">
+
 <img src="https://raw.githubusercontent.com/kr4zym3nvn/best-books-i-have-ever-read/main/img/Icon_Emoji_068_Hu_Tao_Adorable.webp">
+
+<img src="https://raw.githubusercontent.com/kr4zym3nvn/best-books-i-have-ever-read/main/img/Icon_Emoji_Paimon%2527s_Paintings_Yoimiya_1.webp">
 
 </p><p align="center">
 
