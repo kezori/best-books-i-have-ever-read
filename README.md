@@ -75,17 +75,6 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Nhớ một mùa hoa Thạch thảo](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/Nho%20mot%20mua%20hoa%20thach%20thao%20-%20Tran%20Hoai%20Duong.pdf) - Trần Hoài Dương (Truyện ngắn)
 - [Áo đỏ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/Ao%20do%20-%20Tran%20Hoai%20Duong.pdf) - Trần Hoài Dương (Truyện ngắn)
 
-
-## Self-help - Motivational 
-- [Bạn không thông minh lắm đâu](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/self-help/ban-khong-thong-minh-lam-dau-David.pdf) - David McRaney
-- [Tại sao phải hành động]() - Teo Aik Cher 💠
-- [Tại sao cần đơn giản]() - Teo Aik Cher 💠
-- [Tại sao cần vượt trội]() - Teo Aik Cher 💠
-- [Tại sao lo lắng? Hãy vui lên!]() - Teo Aik Cher 💠
-- [Hãy là Người lãnh đạo]() - Teo Aik Cher 💠
-- [Bí kíp nhà vô địch]() - Teo Aik Cher 💠
-- [Tại sao lại chần chừ?]() - Teo Aik Cher 💠
-
 ## Novel
 - [Búp sen xanh](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/bup-sen-xanh-son-tung.pdf) - Sơn Tùng (Tiểu thuyết Lịch sử)
 - [Chiều chiều]() - Tô Hoài 💠
@@ -100,6 +89,15 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Tuổi thơ dữ dội]() - Phùng Quán 💠
 - [Thép đã tôi thế đấy](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/thep-da-toi-the-day-nikolai.pdf) - Nikolai A. Ostrovsky 
 
+## Self-help - Motivational 
+- [Bạn không thông minh lắm đâu](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/self-help/ban-khong-thong-minh-lam-dau-David.pdf) - David McRaney
+- [Tại sao phải hành động]() - Teo Aik Cher 💠
+- [Tại sao cần đơn giản]() - Teo Aik Cher 💠
+- [Tại sao cần vượt trội]() - Teo Aik Cher 💠
+- [Tại sao lo lắng? Hãy vui lên!]() - Teo Aik Cher 💠
+- [Hãy là Người lãnh đạo]() - Teo Aik Cher 💠
+- [Bí kíp nhà vô địch]() - Teo Aik Cher 💠
+- [Tại sao lại chần chừ?]() - Teo Aik Cher 💠
 
 ## Science - Technology
 - [Lược sử thời gian]() - Stephen Hawking 💠
