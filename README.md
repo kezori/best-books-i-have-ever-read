@@ -71,6 +71,7 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Thiên thần nhỏ của tôi](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Thien%20Than%20Nho%20Cua%20Toi%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Vẽ em bằng màu nỗi nhớ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Ve%20Em%20Bang%20Mau%20Noi%20Nho%20-%20Tam%20Pham.pdf) - Tâm Phạm
 - [Yêu người IQ cao](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/yeu-nguoi-iq-cao-doithayxx.pdf) - doithayxx
+- [Ngày xưa có một chuyện tình]() - Nguyễn Nhật Ánh 💠
 
 ## Prose - Poetry - Short Stories - Memoirs
 - [Sương khói quê nhà](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/suong-khoi-que-nha-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh (Tản văn)
