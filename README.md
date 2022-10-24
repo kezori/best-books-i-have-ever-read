@@ -68,12 +68,15 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Vẽ em bằng màu nỗi nhớ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Ve%20Em%20Bang%20Mau%20Noi%20Nho%20-%20Tam%20Pham.pdf) - Tâm Phạm
 - [Yêu người IQ cao](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/yeu-nguoi-iq-cao-doithayxx.pdf) - doithayxx
 
-## Prose - Poetry
-- [Sương khói quê nhà](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/suong-khoi-que-nha-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
-- [Người Quảng đi ăn mì Quảng](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/nguoi-quang-di-an-mi-quang-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
-- [Thương nhớ Trà Long](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/thuong-nho-tra-long-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
+## Prose - Poetry - Short Stories - Memoirs
+- [Sương khói quê nhà](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/suong-khoi-que-nha-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh (Tản văn)
+- [Người Quảng đi ăn mì Quảng](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/nguoi-quang-di-an-mi-quang-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh (Tản văn)
+- [Thương nhớ Trà Long](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/thuong-nho-tra-long-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh (Tản văn)
+- [Nhớ một mùa hoa Thạch thảo]() - Trần Hoài Dương (Truyện ngắn) 💠
+- [Áo đỏ]() - Trần Hoài Dương (Truyện ngắn) 💠
 
-## Self-help - Motivational
+
+## Self-help - Motivational 
 - [Bạn không thông minh lắm đâu](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/self-help/ban-khong-thong-minh-lam-dau-David.pdf) - David McRaney
 - [Tại sao phải hành động]() - Teo Aik Cher 💠
 - [Tại sao cần đơn giản]() - Teo Aik Cher 💠
