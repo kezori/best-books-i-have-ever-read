@@ -29,8 +29,10 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Yêu người IQ cao]() - doithayxx 💠
 - [Tán gái ở nhà]() - Thientoi2 💠
 - [Thể loại này là thể loại gì? Oan gia gặp ngõ hẹp]() - Hoàng Iric 💠
-- [Hóa đơn Truyện]() - Tại Hạ 💠
-- [Chị ơi! Anh yêu em]() - Gió 💠
+- [Tiền Hóa đơn]() - Tại Hạ 💠
+- [Hóa đơn chính truyện]() - Tại Hạ 💠
+- [Hậu Hóa Đơn]() - Tại Hạ 💠
+- [Chị ơi! Anh yêu em]() - Cusiu 💠
 
 ## School Life - Romance - Comedy
 - [Miền xanh]() - Nguyễn Phước Thảo 💠
