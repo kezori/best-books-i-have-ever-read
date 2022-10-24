@@ -16,23 +16,24 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 </p><p align="center">
 
 ## Romance - Comedy
-- [Vẽ em bằng màu nỗi nhớ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Ve%20Em%20Bang%20Mau%20Noi%20Nho%20-%20Tam%20Pham.pdf) - Tâm Phạm
 - [Bảy bước tới mùa hè](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/bay-buoc-toi-mua-he-Nguyen-Nhat-Anh.pdf) - Nguyễn Nhật Ánh
-- [Đi qua hoa cúc](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Di%20Qua%20Hoa%20Cuc%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
-- [Còn chút gì để nhớ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Con%20Chut%20Gi%20De%20Nho%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
-- [Ngồi khóc trên cây](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Ngoi-khoc-tren-cay-Nguyen-Nhat-Anh.pdf) - Nguyễn Nhật Ánh
-- [Thiên thần nhỏ của tôi](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Thien%20Than%20Nho%20Cua%20Toi%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Bồ câu không đưa thư](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Bo%20Cau%20Khong%20Dua%20Thu%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
+- [Còn chút gì để nhớ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Con%20Chut%20Gi%20De%20Nho%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
+- [Chị ơi! Anh yêu em](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Ch%E1%BB%8B%20%C6%A0i%2C%20Anh%20Y%C3%AAu%20Em!%20-%20Cusiu.pdf) - Cusiu 
+- [Đi qua hoa cúc](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Di%20Qua%20Hoa%20Cuc%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Hạ đỏ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Ha%20Do%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
-- [Những chàng trai xấu tính](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Nhung%20Chang%20Trai%20Xau%20Tinh%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
+- [Hóa đơn tam khúc - Hậu Hóa Đơn](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/hau-hoa-don-tai-ha.pdf) - Tại Hạ
+- [Hóa đơn tam khúc - Hóa đơn chính truyện](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/hoa-don-chinh-truyen-tai-ha.pdf) - Tại Hạ
+- [Hóa đơn tam khúc - Tiền Hóa đơn](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Chuyen%20Tien%20Hoa%20Don.pdf) - Tại Hạ
+- [Ngồi khóc trên cây](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Ngoi-khoc-tren-cay-Nguyen-Nhat-Anh.pdf) - Nguyễn Nhật Ánh
 - [Nhà nàng ở cạnh nhà tôi](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Nha%20Nang%20O%20Canh%20Nha%20Toi%20-%20Li%20Ni.pdf) - Lini Thông Minh
-- [Yêu người IQ cao]() - doithayxx 💠
-- [Tán gái ở nhà]() - Thientoi2 💠
-- [Thể loại này là thể loại gì? Oan gia gặp ngõ hẹp]() - Hoàng Iric 💠
-- [Tiền Hóa đơn]() - Tại Hạ 💠
-- [Hóa đơn chính truyện]() - Tại Hạ 💠
-- [Hậu Hóa Đơn]() - Tại Hạ 💠
-- [Chị ơi! Anh yêu em]() - Cusiu 💠
+- [Những chàng trai xấu tính](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Nhung%20Chang%20Trai%20Xau%20Tinh%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
+- [Tán gái ở nhà](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Tan%20Gai%20O%20Nha%20-%20thientoi2.pdf) - Thientoi2
+- [Thể loại này là thể loại gì? Oan gia gặp ngõ hẹp](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/The%20Loai%20Nay%20La%20The%20Loai%20Gi...%20Oan%20Gia%20Ngo%20Hep%20-%20Mr.iric%20-%20Full.pdf) - Hoàng Iric
+- [Thiên thần nhỏ của tôi](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Thien%20Than%20Nho%20Cua%20Toi%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
+- [Vẽ em bằng màu nỗi nhớ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Ve%20Em%20Bang%20Mau%20Noi%20Nho%20-%20Tam%20Pham.pdf) - Tâm Phạm
+- [Yêu người IQ cao](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/yeu-nguoi-iq-cao-doithayxx.pdf) - doithayxx
+
 
 ## School Life - Romance - Comedy
 - [Miền xanh]() - Nguyễn Phước Thảo 💠
