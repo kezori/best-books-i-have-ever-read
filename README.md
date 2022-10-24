@@ -25,7 +25,7 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Bồ câu không đưa thư](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Bo%20Cau%20Khong%20Dua%20Thu%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Hạ đỏ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Ha%20Do%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Những chàng trai xấu tính](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Nhung%20Chang%20Trai%20Xau%20Tinh%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
-- [Nhà nàng ở cạnh nhà tôi]() - Lini Thông Minh
+- [Nhà nàng ở cạnh nhà tôi](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Nha%20Nang%20O%20Canh%20Nha%20Toi%20-%20Li%20Ni.pdf) - Lini Thông Minh
 - [Yêu người IQ cao]() - doithayxx 💠
 - [Tán gái ở nhà]() - Thientoi2 💠
 - [Thể loại này là thể loại gì? Oan gia gặp ngõ hẹp]() - Hoàng Iric 💠
