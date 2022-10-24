@@ -72,6 +72,7 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Sương khói quê nhà](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/suong-khoi-que-nha-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
 - [Người Quảng đi ăn mì Quảng](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/nguoi-quang-di-an-mi-quang-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
 - [Thương nhớ Trà Long](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/thuong-nho-tra-long-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
+- 
 
 ## Self-help - Motivational
 - [Bạn không thông minh lắm đâu](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/self-help/ban-khong-thong-minh-lam-dau-David.pdf) - David McRaney
@@ -85,6 +86,7 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 
 ## Novel
 - [Búp sen xanh](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/bup-sen-xanh-son-tung.pdf) - Sơn Tùng (Tiểu thuyết Lịch sử)
+- [Chiều chiều]() - Tô Hoài 💠
 - [Đất rừng Phương Nam](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/dat-rung-phuong-nam-doan-gioi.pdf) - Đoàn Giỏi (Truyện dài)
 - [Đề thi đẫm máu]() - Lôi Mễ (Trinh thám) 💠
 - [Hai vạn dặm dưới đáy biển]() - Jules Verne (Thám hiểm)💠
