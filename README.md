@@ -72,8 +72,8 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Sương khói quê nhà](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/suong-khoi-que-nha-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh (Tản văn)
 - [Người Quảng đi ăn mì Quảng](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/nguoi-quang-di-an-mi-quang-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh (Tản văn)
 - [Thương nhớ Trà Long](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/thuong-nho-tra-long-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh (Tản văn)
-- [Nhớ một mùa hoa Thạch thảo]() - Trần Hoài Dương (Truyện ngắn) 💠
-- [Áo đỏ]() - Trần Hoài Dương (Truyện ngắn) 💠
+- [Nhớ một mùa hoa Thạch thảo](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/Nho%20mot%20mua%20hoa%20thach%20thao%20-%20Tran%20Hoai%20Duong.pdf) - Trần Hoài Dương (Truyện ngắn)
+- [Áo đỏ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/Ao%20do%20-%20Tran%20Hoai%20Duong.pdf) - Trần Hoài Dương (Truyện ngắn)
 
 
 ## Self-help - Motivational 
