@@ -84,16 +84,18 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Tại sao lại chần chừ?]() - Teo Aik Cher 💠
 
 ## Novel
-- [Thép đã tôi thế đấy]() - Nikolai A. Ostrovsky 
-- [Ruồi trâu]() - Ethel Lilian Voynich 💠
-- [Không gia đình]() - Hector Malot 💠
-- [Oliver Twist]() - Charles Dickens (Tiểu thuyết Xã hội)💠
-- [Hai vạn dặm dưới đáy biển]() - Jules Verne (Thám hiểm)💠
-- [Tuổi thơ dữ dội]() - Phùng Quán 💠
-- [Đất rừng Phương Nam]() - Đoàn Giỏi (Truyện dài)💠
+- [Búp sen xanh](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/bup-sen-xanh-son-tung.pdf) - Sơn Tùng (Tiểu thuyết Lịch sử)
+- [Đất rừng Phương Nam](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/dat-rung-phuong-nam-doan-gioi.pdf) - Đoàn Giỏi (Truyện dài)
 - [Đề thi đẫm máu]() - Lôi Mễ (Trinh thám) 💠
-- [Miền xanh thẳm]() - Trần Hoài Dương (Truyện dài)💠
-- [Búp sen xanh]() - Sơn Tùng (Tiểu thuyết Lịch sử)💠
+- [Hai vạn dặm dưới đáy biển]() - Jules Verne (Thám hiểm)💠
+- [Không gia đình]() - Hector Malot 💠
+- [Miền xanh thẳm](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/mien-xanh-tham-tran-hoai-duong.pdf) - Trần Hoài Dương (Truyện dài)
+- [Những tháng năm rực rỡ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/Nhung%20Nam%20Thang%20Ruc%20Ro%20-%20Ae-ran%20Kim.pdf) - Ae-ran Kim
+- [Oliver Twist]() - Charles Dickens (Tiểu thuyết Xã hội)💠
+- [Ruồi trâu]() - Ethel Lilian Voynich 💠
+- [Tuổi thơ dữ dội]() - Phùng Quán 💠
+- [Thép đã tôi thế đấy](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/thep-da-toi-the-day-nikolai.pdf) - Nikolai A. Ostrovsky 
+
 
 ## Science - Technology
 - [Lược sử thời gian]() - Stephen Hawking 💠
