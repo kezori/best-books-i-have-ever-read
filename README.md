@@ -78,7 +78,8 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Thương nhớ Trà Long](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/prose/thuong-nho-tra-long-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh (Tản văn)
 - [Nhớ một mùa hoa Thạch thảo](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/Nho%20mot%20mua%20hoa%20thach%20thao%20-%20Tran%20Hoai%20Duong.pdf) - Trần Hoài Dương (Truyện ngắn)
 - [Áo đỏ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/Ao%20do%20-%20Tran%20Hoai%20Duong.pdf) - Trần Hoài Dương (Truyện ngắn)
-
+- [Kí ức vụn 1](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/short%20story%20collection/ky-uc-vun-ky-uc-vun-tap-1-pdf.pdf) - Nguyễn Quang Lập (tuyển tập Truyện ngắn)
+- [Kí ức vụn 2](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/short%20story%20collection/ky-uc-vun-ky-uc-vun-tap-2-pdf.pdf) - Nguyễn Quang Lập (tuyển tập Truyện ngắn)
 ## Novel
 - [Búp sen xanh](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/bup-sen-xanh-son-tung.pdf) - Sơn Tùng (Tiểu thuyết Lịch sử)
 - [Chiều chiều]() - Tô Hoài 💠
