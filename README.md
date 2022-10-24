@@ -1,6 +1,6 @@
 # best-books-i-have-ever-read
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" width="85"/> [![Creator](https://img.shields.io/badge/Creator-Keri%20Nguyen-pi.svg)](https://github.com/kr4zym3nvn)
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" width="120"/> [<img src="https://img.shields.io/badge/Creator-Keri%20Nguyen-pink.svg?style=for-the-badge" width="190"/>](https://github.com/kr4zym3nvn)
 
 Những cuốn sách, truyện mình cho rằng là tuyệt vời nhất mà mình đọc được và muốn chia sẻ cho tất cả mọi người ^^
 
