@@ -16,7 +16,7 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 </p><p align="center">
 
 ## Romance - Comedy
-- [Vẽ em bằng màu nỗi nhớ]() - Tâm Phạm 💠
+- [Vẽ em bằng màu nỗi nhớ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Ve%20Em%20Bang%20Mau%20Noi%20Nho%20-%20Tam%20Pham.pdf) - Tâm Phạm
 - [Bảy bước tới mùa hè](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/bay-buoc-toi-mua-he-Nguyen-Nhat-Anh.pdf) - Nguyễn Nhật Ánh
 - [Đi qua hoa cúc](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Di%20Qua%20Hoa%20Cuc%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Còn chút gì để nhớ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comedy/Con%20Chut%20Gi%20De%20Nho%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
