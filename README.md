@@ -4,7 +4,7 @@
 
 Những cuốn sách, truyện mình cho rằng là tuyệt vời nhất mà mình đọc được và muốn chia sẻ cho tất cả mọi người ^^
 
-Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới đây, mọi file đều là do mình thực hiện sưu tầm mà có được. Nếu có bất cứ tranh chấp bản quyền hãy để lại ở mục ***Issues*** hoặc ***Discussions*** để chúng ta có thể cùng giải quyết sớm nhất có thể :3 
+Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới đây, mọi file đều là do mình thực hiện sưu tầm mà có được. Nếu có bất cứ tranh chấp bản quyền hoặc bạn link những truyện, những cuốn mình chưa cập nhật hãy để lại câu hỏi cũng như đóng góp ở mục ***Issues*** hoặc ***Discussions*** để chúng ta có thể cùng giải quyết sớm nhất có thể :3 
 
 *Kí hiệu 💠 đánh dấu những sách mình chưa cập nhật file PDF*
 
@@ -113,7 +113,7 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Grokking Algorithms An Illustrated Guide for Programmers and Other Curious People]() - Aditya Bhargava 💠
 
 ## Light Novel - Manga - Comic - Anime
-- [DxD High School]() - Ichiei Ishibumi (ハイスクールD×D)💠
+- [DxD High School]() - Ichiei Ishibumi (ハイスクールD×D)💠 *lmao but i think it's the best hentai manga and anime*
 - [Hyouka]() - Honobu Yonezawa (氷菓)💠
 - [Kimi no Na wa]() - Makoto Shinkai (君の名は。)💠
 - [Tonikaku Kawaii]() - Shun Saeki (とにかく可愛い)💠
