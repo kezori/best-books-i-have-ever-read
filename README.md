@@ -34,6 +34,7 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Học sinh chuyển lớp]() - DM.XangTang 💠
 
 ## Slice of Life - Romance - Comedy
+- [Bong bóng lên trời](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/bong-bong-tren-troi.pdf) - Nguyễn Nhật Ánh
 - [Buổi chiều Windows](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/Buoi%20Chieu%20Windows%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Cây chuối non đem giày xanh](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/cay-chuoi-non-dem-giay-xanh-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
 - [Có hai con mèo ngồi bên cửa sổ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/Co%20Hai%20Con%20Meo%20Ngoi%20Ben%20Cua%20So%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
