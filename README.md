@@ -88,6 +88,7 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Chiều chiều]() - Tô Hoài 💠
 - [Đất rừng Phương Nam](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/dat-rung-phuong-nam-doan-gioi.pdf) - Đoàn Giỏi (Truyện dài)
 - [Đề thi đẫm máu]() - Lôi Mễ (Trinh thám) 💠
+- [Giết con chim nhại]() - Happer Lee 💠
 - [Hai vạn dặm dưới đáy biển]() - Jules Verne (Thám hiểm)💠
 - [Không gia đình]() - Hector Malot 💠
 - [Miền xanh thẳm](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/mien-xanh-tham-tran-hoai-duong.pdf) - Trần Hoài Dương (Truyện dài)
@@ -113,7 +114,9 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Introduction to Algorithms. Third Edition]() - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein 💠
 - [Clean Code]() - Robert C. Martin 💠
 - [Grokking Algorithms An Illustrated Guide for Programmers and Other Curious People]() - Aditya Bhargava 💠
-
+- [Mọi Người Đều Nói Dối - Dữ Liệu Lớn, Dữ Liệu Mới Và Những Điều Internet Tiết Lộ Về Chính Chúng Ta]() - Seth Stephens-Davidowitz 💠
+- [Thế giới như tôi thấy]() - Albert Einstein 💠
+- [Vũ trụ]() - Carl Sagan 💠
 ## Light Novel - Manga - Comic - Anime
 - [DxD High School]() - Ichiei Ishibumi (ハイスクールD×D)💠 *lmao but i think it's the best hentai manga and anime*
 - [Hyouka]() - Honobu Yonezawa (氷菓)💠
