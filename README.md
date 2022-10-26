@@ -85,7 +85,7 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Kí ức vụn 2](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/short%20story%20collection/ky-uc-vun-ky-uc-vun-tap-2-pdf.pdf) - Nguyễn Quang Lập (tuyển tập Truyện ngắn)
 ## Novel
 - [Búp sen xanh](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/bup-sen-xanh-son-tung.pdf) - Sơn Tùng (Tiểu thuyết Lịch sử)
-- [Chiều chiều]() - Tô Hoài 💠
+- [Chiều chiều](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/chieuchieu_tohoai.pdf) - Tô Hoài
 - [Đất rừng Phương Nam](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/dat-rung-phuong-nam-doan-gioi.pdf) - Đoàn Giỏi (Truyện dài)
 - [Đề thi đẫm máu]() - Lôi Mễ (Trinh thám) 💠
 - [Giết con chim nhại](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/giet-con-chim-nhai.pdf) - Happer Lee
