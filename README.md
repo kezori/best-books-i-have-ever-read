@@ -111,12 +111,12 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 ## Science - Technology
 - [Lược sử thời gian]() - Stephen Hawking 💠
 - [Code dạo kí sự]() - Phạm Huy Hoàng 💠
-- [Introduction to Algorithms. Third Edition]() - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein 💠
-- [Clean Code]() - Robert C. Martin 💠
-- [Grokking Algorithms An Illustrated Guide for Programmers and Other Curious People]() - Aditya Bhargava 💠
-- [Mọi Người Đều Nói Dối - Dữ Liệu Lớn, Dữ Liệu Mới Và Những Điều Internet Tiết Lộ Về Chính Chúng Ta]() - Seth Stephens-Davidowitz 💠
-- [Thế giới như tôi thấy]() - Albert Einstein 💠
-- [Vũ trụ]() - Carl Sagan 💠
+- [Introduction to Algorithms. Third Edition](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/science-technology/%5BALGORITHMS%5D%5BIntroduction%20to%20Algorithms.%20Third%20Edition%5D.pdf) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+- [Clean Code - A Handbook of Agile Software Craftsmanship](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/science-technology/Clean%20Code%20-%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship%20by%20Robert%20C.%20Martin.pdf) - Robert C. Martin
+- [Grokking Algorithms An Illustrated Guide for Programmers and Other Curious People](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/science-technology/Grokking%20Algorithms%20An%20Illustrated%20Guide%20for%20Programmers%20and%20Other%20Curious%20People%20by%20Aditya%20Bhargava.pdf) - Aditya Bhargava
+- [Mọi Người Đều Nói Dối - Dữ Liệu Lớn, Dữ Liệu Mới Và Những Điều Internet Tiết Lộ Về Chính Chúng Ta](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/science-technology/moi-nguoi-deu-noi-doi-du-lieu-lon--du-lieu-moi-va-nhung-dieu-internet-tiet-lo-ve-chinh-chung-ta.pdf) - Seth Stephens-Davidowitz
+- [Thế giới như tôi thấy](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/science-technology/the-gioi-nhu-toi-thay.pdf) - Albert Einstein
+- [Vũ trụ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/science-technology/vu-tru-sagan.pdf) - Carl Sagan
 ## Light Novel - Manga - Comic - Anime
 - [DxD High School]() - Ichiei Ishibumi (ハイスクールD×D)💠 *lmao but i think it's the best hentai manga and anime*
 - [Hyouka]() - Honobu Yonezawa (氷菓)💠
