@@ -20,18 +20,19 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 </p><p align="center">
 
 ## School Life - Romance - Comedy
-- [Miền xanh]() - Nguyễn Phước Thảo 💠
+- [Bàn có năm chỗ ngồi](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/school/Ban%20Co%20Nam%20Cho%20Ngoi%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Cô gái đến từ hôm qua](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Co%20Gai%20Den%20Tu%20Hom%20Qua%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Chú bé rắc rối](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Chu%20Be%20Rac%20Roi%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Hoa hồng xứ khác](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Hoa%20Hong%20Xu%20Khac%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
+- [Học sinh chuyển lớp]() - DM.XangTang 💠
 - [Mắt biếc](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Mat%20Biec%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh 
+- [Miền xanh]() - Nguyễn Phước Thảo 💠
+- [Ngôi trường mọi khi](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/school/Ngoi%20Truong%20Moi%20Khi%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Những cô em gái](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Nhung%20Co%20Em%20Gai%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh 
 - [Thằng quỷ nhỏ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Thang%20Quy%20Nho%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Trại hoa vàng](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/romance-comendy-school/Trai%20Hoa%20Vang%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
-- [Bàn có năm chỗ ngồi](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/school/Ban%20Co%20Nam%20Cho%20Ngoi%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
-- [Ngôi trường mọi khi](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/school/Ngoi%20Truong%20Moi%20Khi%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Trước vòng chung kết](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/school/Truoc%20Vong%20Chung%20Ket%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
-- [Học sinh chuyển lớp]() - DM.XangTang 💠
+
 
 ## Slice of Life - Romance - Comedy
 - [Bong bóng lên trời](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/bong-bong-tren-troi.pdf) - Nguyễn Nhật Ánh
@@ -43,13 +44,13 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Chúc một ngày tốt lành](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/chuc-mot-ngay-tot-lanh-nguyen-nhat-anh.pdf) - Nguyễn Nhật Ánh
 - [Chuyện cổ tích dành cho người lớn](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/Chuyen%20Co%20Tich%20Danh%20Cho%20Nguoi%20Lon%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Dòng đời nổi trôi](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/D%C3%B2ng%20%C4%90%E1%BB%9Di%20N%E1%BB%95i%20Tr%C3%B4i%20-%20L%C3%AA%20V%C5%A9%20Tr%E1%BB%8Dng%20Ngh%C4%A9a.pdf) - TaurusSBR
-- [Đã nhớ một cuộc đời]() - Mrfriday13th 💠
+- [Đã nhớ một cuộc đời](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/Da%20Nho%20Mot%20Cuoc%20Doi.pdf) - Mrfriday13th
 - [Đảo mộng mơ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/Dao%20Mong%20Mo%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Lá nằm trong lá](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/La%20Nam%20Trong%20La%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
-- [Ngày hôm qua đã từng]() - Nguyễn Mon (My Daisy) 💠
+- [Ngày hôm qua đã từng](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/Ngay%20Hom%20Qua_.%20Da%20Tung%20-%20My%20Daisy%20-%20nguyenster.(%20nguyenMon).pdf) - Nguyễn Mon (My Daisy)
 - [Phòng trọ ba người](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/Phong%20Tro%20Ba%20Nguoi%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Quán Gò đi lên](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/Quan%20Go%20Di%20Len%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
-- [Say nắng gia sư của em trai]() - wuwu123 💠
+- [Say nắng gia sư của em trai](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/Say%20Nang%20Gia%20Su%20Cua%20Em%20Trai%20-%20wuwu123.pdf) - wuwu123
 - [Tôi là Bêto](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/Toi%20La%20Beto%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Tôi thấy hoa vàng trên cỏ xanh](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/slice_life-romance/Toi%20Thay%20Hoa%20Vang%20Tren%20Co%20Xanh%20-%20Nguyen%20Nhat%20Anh.pdf) - Nguyễn Nhật Ánh
 - [Bảy ngày làm gia sư]() - fmnghuy 💠
