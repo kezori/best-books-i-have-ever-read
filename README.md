@@ -126,6 +126,6 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Masamune Kun no Revenge]() - Akeno Hiura (政宗くんのリベンジ)💠
 - [Date A Live]() - Koushi Tachibana (デート・ア・ライブ)💠
 - [Fuufu Ijou, Koibito Miman]() - Kanae Hazuki (恋と嘘)💠
-- [Yahari Ore no Seishun Love SNAFU]() - Wataru Watari (俺ガイル)💠
+- [Yahari Ore no Seishun Love SNAFU](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/tree/main/lightnovel-manga-comic-anime/Oregairu) - Wataru Watari (俺ガイル)
 - [Arya-san bàn bên thi thoảng lại thả thính tôi bằng tiếng Nga]() - 燦々Sun (時々ボソッとロシア語でデレる隣のアーリャさん)💠
 
