@@ -87,14 +87,14 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Búp sen xanh](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/bup-sen-xanh-son-tung.pdf) - Sơn Tùng (Tiểu thuyết Lịch sử)
 - [Chiều chiều](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/chieuchieu_tohoai.pdf) - Tô Hoài
 - [Đất rừng Phương Nam](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/dat-rung-phuong-nam-doan-gioi.pdf) - Đoàn Giỏi (Truyện dài)
-- [Đề thi đẫm máu]() - Lôi Mễ (Trinh thám) 💠
+- [Đề thi đẫm máu](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/De%20thi%20Dam%20Mau%20-%20Loi%20Me.pdf) - Lôi Mễ (Trinh thám)
 - [Giết con chim nhại](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/giet-con-chim-nhai.pdf) - Happer Lee
-- [Hai vạn dặm dưới đáy biển]() - Jules Verne (Thám hiểm)💠
-- [Không gia đình]() - Hector Malot 💠
+- [Hai vạn dặm dưới đáy biển](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/Hai%20Van%20Dam%20Duoi%20Bien%20-%20Jules%20Verne.pdf) - Jules Verne (Thám hiểm)
+- [Không gia đình](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/khong-gia-dinh.pdf) - Hector Malot
 - [Miền xanh thẳm](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/mien-xanh-tham-tran-hoai-duong.pdf) - Trần Hoài Dương (Truyện dài)
 - [Những tháng năm rực rỡ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/Nhung%20Nam%20Thang%20Ruc%20Ro%20-%20Ae-ran%20Kim.pdf) - Ae-ran Kim
-- [Oliver Twist]() - Charles Dickens (Tiểu thuyết Xã hội)💠
-- [Ruồi trâu]() - Ethel Lilian Voynich 💠
+- [Oliver Twist](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/oliver-twist.pdf) - Charles Dickens (Tiểu thuyết Xã hội)
+- [Ruồi trâu](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/ruoi-trau.pdf) - Ethel Lilian Voynich
 - [Tuổi thơ dữ dội](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/tuoi-tho-du-doi-pdf.pdf) - Phùng Quán
 - [Thép đã tôi thế đấy](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/thep-da-toi-the-day-nikolai.pdf) - Nikolai A. Ostrovsky 
 
