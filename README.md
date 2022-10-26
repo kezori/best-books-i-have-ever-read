@@ -88,14 +88,14 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Chiều chiều]() - Tô Hoài 💠
 - [Đất rừng Phương Nam](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/dat-rung-phuong-nam-doan-gioi.pdf) - Đoàn Giỏi (Truyện dài)
 - [Đề thi đẫm máu]() - Lôi Mễ (Trinh thám) 💠
-- [Giết con chim nhại]() - Happer Lee 💠
+- [Giết con chim nhại](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/giet-con-chim-nhai.pdf) - Happer Lee
 - [Hai vạn dặm dưới đáy biển]() - Jules Verne (Thám hiểm)💠
 - [Không gia đình]() - Hector Malot 💠
 - [Miền xanh thẳm](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/mien-xanh-tham-tran-hoai-duong.pdf) - Trần Hoài Dương (Truyện dài)
 - [Những tháng năm rực rỡ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/Nhung%20Nam%20Thang%20Ruc%20Ro%20-%20Ae-ran%20Kim.pdf) - Ae-ran Kim
 - [Oliver Twist]() - Charles Dickens (Tiểu thuyết Xã hội)💠
 - [Ruồi trâu]() - Ethel Lilian Voynich 💠
-- [Tuổi thơ dữ dội]() - Phùng Quán 💠
+- [Tuổi thơ dữ dội](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/tuoi-tho-du-doi-pdf.pdf) - Phùng Quán
 - [Thép đã tôi thế đấy](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/novel/thep-da-toi-the-day-nikolai.pdf) - Nikolai A. Ostrovsky 
 
 ## Self-help - Motivational 
