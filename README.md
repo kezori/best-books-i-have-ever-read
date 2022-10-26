@@ -119,7 +119,7 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 - [Vũ trụ](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/science-technology/vu-tru-sagan.pdf) - Carl Sagan
 ## Light Novel - Manga - Comic - Anime
 - [DxD High School]() - Ichiei Ishibumi (ハイスクールD×D)💠 *lmao but i think it's the best hentai manga and anime*
-- [Hyouka]() - Honobu Yonezawa (氷菓)💠
+- [Hyouka](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/tree/main/lightnovel-manga-comic-anime/Hyouka) - Honobu Yonezawa (氷菓)
 - [Kimi no Na wa]() - Makoto Shinkai (君の名は。)💠
 - [Tonikaku Kawaii]() - Shun Saeki (とにかく可愛い)💠
 - [Horimiya]() - Hero (ほりみや)💠
