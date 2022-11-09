@@ -105,7 +105,7 @@ _Kí hiệu 💠 đánh dấu những sách mình chưa cập nhật file PDF_
 ## Self-help - Motivational
 
 - [Bạn không thông minh lắm đâu](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/self-help/ban-khong-thong-minh-lam-dau-David.pdf) - David McRaney
-- [Tại sao phải hành động]() - Teo Aik Cher 💠
+- [Tại sao phải hành động](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/self-help/tai-sao-phai-hanh-dong.pdf) - Teo Aik Cher
 - [Tại sao cần đơn giản]() - Teo Aik Cher 💠
 - [Tại sao cần vượt trội]() - Teo Aik Cher 💠
 - [Tại sao lo lắng? Hãy vui lên!]() - Teo Aik Cher 💠
