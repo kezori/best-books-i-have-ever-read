@@ -135,3 +135,7 @@ _Kí hiệu 💠 đánh dấu những sách mình chưa cập nhật file PDF_
 - [Fuufu Ijou, Koibito Miman]() - Kanae Hazuki (恋と嘘)💠
 - [Yahari Ore no Seishun Love SNAFU](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/tree/main/lightnovel-manga-comic-anime/Oregairu) - Wataru Watari (俺ガイル)
 - [Arya-san bàn bên thi thoảng lại thả thính tôi bằng tiếng Nga]() - 燦々 Sun (時々ボソッとロシア語でデレる隣のアーリャさん)💠
+
+## Other
+
+- [Bài giảng cuối cùng](https://github.com/kr4zym3nvn/best-books-i-have-ever-read/blob/main/other/bai-giang-cuoi-cung.pdf) - Randy Pausch
