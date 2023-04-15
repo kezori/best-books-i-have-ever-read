@@ -1,6 +1,6 @@
-# best-books-i-have-ever-read
+# Best book I have ever read
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" width="120"/> [<img src="https://img.shields.io/badge/Creator-Keri%20Nguyen-pink.svg?style=for-the-badge" width="195"/>](https://github.com/kr4zym3nvn)
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" width="120"/>
 
 Những cuốn sách, truyện mình cho rằng là tuyệt vời nhất mà mình đọc được và muốn chia sẻ cho tất cả mọi người ^^
 
@@ -8,14 +8,6 @@ Mình không sở hữu bất cứ nội dung nào được nhắc tới dưới
 
 _Kí hiệu 💠 đánh dấu những sách mình chưa cập nhật file PDF_
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/kr4zym3nvn/best-books-i-have-ever-read/main/img/Icon_Emoji_038_Tartaglia_Pleased.webp">
-
-<img src="https://raw.githubusercontent.com/kr4zym3nvn/best-books-i-have-ever-read/main/img/Icon_Emoji_068_Hu_Tao_Adorable.webp">
-
-<img src="https://raw.githubusercontent.com/kr4zym3nvn/best-books-i-have-ever-read/main/img/Icon_Emoji_Paimon%2527s_Paintings_Yoimiya_1.webp">
-
-</p><p align="center">
 
 ## School Life - Romance - Comedy
 
